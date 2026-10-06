@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator Kotlin</string>
+
+    <!-- Pesan Validasi & Kesalahan -->
+    <string name="error_division_by_zero">Kesalahan: Pembagian dengan nol tidak diperbolehkan.</string>
+    <string name="error_modulo_by_zero">Kesalahan: Modulo dengan nol tidak diperbolehkan.</string>
+    <string name="error_invalid_expression">Kesalahan: Format ekspresi tidak valid.</string>
+</resources>

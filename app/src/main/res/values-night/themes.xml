@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CATATAN: Theme XML ini hanya shell / entry point Android native untuk Dark Mode.
+     Warna dan komponen Material 3 sesungguhnya dikelola secara deklaratif
+     via MaterialTheme { } di Jetpack Compose. Theme native ini mencegah flicker
+     sebelum Compose selesai me-render tampilan awal. -->
+<resources>
+    <style name="Theme.KalkulatorKotlin" parent="android:Theme.Material.NoActionBar" />
+</resources>
